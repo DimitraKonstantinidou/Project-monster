@@ -10,4 +10,4 @@ Project built during a Udemy Vue course, showcasing a turn-based battle game bet
 
 ![image](https://github.com/DimitraKonstantinidou/Project-monster/assets/147081941/4d20809b-5721-4d3c-978b-c746b548073f)
 
-![Uploading image.png…]()
+![image](https://github.com/DimitraKonstantinidou/Project-monster/assets/147081941/f021baf8-33c3-4ac5-95e6-aa8f63a43e44)
